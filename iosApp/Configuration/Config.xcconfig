@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=ResourceBinder
+PRODUCT_BUNDLE_IDENTIFIER=org.sfcivictech.android.shared.resourcebinder.ResourceBinder$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
